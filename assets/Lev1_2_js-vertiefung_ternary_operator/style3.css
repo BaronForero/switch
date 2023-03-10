@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+/* @font-face {
+    font-family: ;
+    src: url();
+}
+
+@font-face {
+    font-family: ;
+    src: url();
+} */
+
+html {
+    font-size: 10px;
+    scroll-behavior: smooth;
+}
+
+/* header {
+    background-image: ;
+    background-position: center;
+    background-size: cover;
+    background: no-repeat;
+    color: white;
+} */
